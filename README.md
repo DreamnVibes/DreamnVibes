@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  ![trophy](https://github-profile-trophy.vercel.app/?username=DreamnVibes&theme=onedark)
+  <img src="github-readme-stats.vercel.app" alt="DreamnVibes GitHub Stats" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
