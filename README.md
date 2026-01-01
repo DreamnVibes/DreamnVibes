@@ -13,8 +13,7 @@
 ###
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamnvibes&" alt="dreamnvibes" /></p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamnvibes" alt="dreamnvibes" /></a> </p>  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
 ###
