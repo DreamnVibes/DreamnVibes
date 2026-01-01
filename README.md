@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=DreamnVibes&locale=en&mode=daily&theme=blue-green&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src= https://streak-stats.demolab.com/?user=DreamnVibes/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
