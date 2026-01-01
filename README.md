@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=DreamnVibes&theme=blue-green&hide_border=true" />
+  <img src="https://jandee.vercel.app/DreamnVibes" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
