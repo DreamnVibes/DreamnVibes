@@ -13,7 +13,8 @@
 ###
 
 <div align="center">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DreamnVibes" alt="DreamnVibes" /></a> </p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DreamnVibes&label=Profile%20views&color=0e75b6&style=flat" alt="dreamnvibes" /> </p>
+
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
