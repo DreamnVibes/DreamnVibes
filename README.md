@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="github-readme-streak-stats-eight.vercel.app" alt="GitHub Streak" />
+  <img src="github-readme-streak-stats-kw188rd6y-dreamnvibes-projects.vercel.app" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
