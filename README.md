@@ -22,7 +22,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DreamnVibes/DreamnVibes/output/snake.svg" alt="Snake animation" />
 
 ###
 
