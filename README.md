@@ -9,7 +9,7 @@
 ###
 
 <p align="left">I am Joel, a Computer Science Engineer from Manipal University Jaipur (MUJ) specializing in AI&ML, passionate about building scalable intelligent systems and solving complex algorithmic challenges.</p>
-<p align = "left"> <h4>🔧 Current undertakings: </h4> <ol><li>Neuro-Symbolic-SQL-Agent-XAI: A local, privacy-first agent that uses neuro-symbolic reasoning to generate counterfactual SQL queries and actionable recourse for null results.</li></ol> </p>
+<p align = "left"> <h4>🔧 Current undertakings: </h4> <ol><li>Neuro-Symbolic SQL Agent (XAI): A local, privacy-first agent that uses neuro-symbolic reasoning to generate counterfactual SQL queries and actionable recourse for null results.</li></ol> </p>
 
 ###
 
