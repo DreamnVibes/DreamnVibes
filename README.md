@@ -14,7 +14,7 @@
 
 <div align="center">
 
-  
+  <img src = "https://github-readme-stats.vercel.app/api?username=DreamnVibes&show_icons=true&theme=minimal" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="400" alt="activity-graph graph"  />
 </div>
 
