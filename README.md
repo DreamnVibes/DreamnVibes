@@ -57,6 +57,7 @@
 ###
 
 <div align="left">
+  [![Joel's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=DreamnVibes&theme=dark)](https://codeforces.com/profile/DreamnVibes)
   <a href="mailto:joelmaruthoor@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
