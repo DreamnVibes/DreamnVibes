@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://cf-tracker.vercel.app/api/tracker?username=DreamnVibes&theme=dark" alt="Joel's Codeforces Activity Tracker" />
+  <img src="https://codeforces-heatmap.vercel.app/api/heatmap?username=DreamnVibes&theme=dark" alt="Joel's Codeforces Heatmap" />
   
   <br><br>
 
