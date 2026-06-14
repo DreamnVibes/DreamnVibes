@@ -4,8 +4,7 @@
 
 <h2 align="left">Hello World!! 👋</h2>
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/DreamnVibes/DreamnVibes/main/assets/programmer-meme.jpg" alt="Meme" />
-
+<img align="right" height="150" src="https://www.meme-arsenal.com/memes/0a120d7d8f72fda96f3b75a32669ac82.jpg"  />
 <p align="left">I am Joel, a Computer Science Engineer from Manipal University Jaipur (MUJ) specializing in AI&ML, passionate about building scalable intelligent systems and solving complex algorithmic challenges.</p>
 
 <div align="left">
