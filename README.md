@@ -20,7 +20,7 @@
 ---
 
 <div align="center">
-  <img src="https://codeforces-heatmap.vercel.app/api/heatmap?username=DreamnVibes&theme=dark" alt="Joel's Codeforces Heatmap" />
+  <img src="https://codeforces-heatmap.vercel.app/api/heatmap?username=DreamnVibes&theme=dark&v=2026" alt="Joel's Codeforces Heatmap" />
   
   <br><br>
 
