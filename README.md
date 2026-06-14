@@ -18,6 +18,16 @@
 ---
 
 <div align="center">
+  <img src="https://cf-tracker.vercel.app/api/tracker?username=DreamnVibes&theme=dark" alt="Joel's Codeforces Activity Tracker" />
+</div>
+
+<div align="center">
+  <a href="https://codeforces.com/profile/DreamnVibes" target="_blank">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DreamnVibes&theme=dark" height="150" alt="Joel's Codeforces Stats" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="380" alt="activity-graph graph" />
 </div>
 
@@ -49,11 +59,7 @@
 
 ---
 
-<div align="left">
-  <a href="https://codeforces.com/profile/DreamnVibes" target="_blank">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DreamnVibes&theme=dark" height="150" alt="Joel's Codeforces Stats" />
-  </a>
-</div>
+
 
 <br>
 
