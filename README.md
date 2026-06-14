@@ -4,7 +4,7 @@
 
 <h2 align="left">Hello World!! 👋</h2>
 
-<img align="right" height="150" src="https://www.meme-arsenal.com/memes/0a120d7d8f72fda96f3b75a32669ac82.jpg"  />
+<img align="right" height="150" src="https://www.meme-arsenal.com/memes/0a120d7d8f72fda96f3b75a32669ac82.jpg" />
 <p align="left">I am Joel, a Computer Science Engineer from Manipal University Jaipur (MUJ) specializing in AI&ML, passionate about building scalable intelligent systems and solving complex algorithmic challenges.</p>
 
 <div align="left">
@@ -15,23 +15,23 @@
   </ol>
 </div>
 
+<br clear="both">
+
 ---
 
 <div align="center">
   <img src="https://cf-tracker.vercel.app/api/tracker?username=DreamnVibes&theme=dark" alt="Joel's Codeforces Activity Tracker" />
-</div>
+  
+  <br><br>
 
-<div align="center">
   <a href="https://codeforces.com/profile/DreamnVibes" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DreamnVibes&theme=dark" height="150" alt="Joel's Codeforces Stats" />
   </a>
-</div>
+  
+  <br><br>
 
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DreamnVibes&radius=0&theme=gotham&area=true&order=5&hide_border=true&hide_title=false" height="380" alt="activity-graph graph" />
 </div>
-
-<br clear="both">
 
 ---
 
@@ -58,8 +58,6 @@
 </div>
 
 ---
-
-
 
 <br>
 
