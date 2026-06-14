@@ -20,10 +20,6 @@
 ---
 
 <div align="center">
-  <img src="https://codeforces-heatmap.vercel.app/api/heatmap?username=DreamnVibes&theme=dark&v=2026" alt="Joel's Codeforces Heatmap" />
-  
-  <br><br>
-
   <a href="https://codeforces.com/profile/DreamnVibes" target="_blank">
     <img src="https://codeforces-readme-stats.vercel.app/api/card?username=DreamnVibes&theme=dark" height="150" alt="Joel's Codeforces Stats" />
   </a>
